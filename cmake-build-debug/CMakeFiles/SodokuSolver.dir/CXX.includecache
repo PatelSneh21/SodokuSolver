@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Grid.cpp
+Grid.h
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Grid.h
+stdexcept
+-
+cstdlib
+-
+Grid.h
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Grid.h
+
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Grid.h
+string
+-
+fstream
+-
+iostream
+-
+Point.h
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Point.h
+stack
+-
+
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Point.cpp
+Point.h
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Point.h
+
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/Point.h
+iostream
+-
+
+C:/Users/Sneh Patel/Desktop/CLion Projects/SodukoSolver/SodokuSolver/main.cpp
+iostream
+-
+

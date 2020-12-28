@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SodokuSolver.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\SodokuSolver.dir/objects.a @CMakeFiles\SodokuSolver.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe  -std=c++17 -Wall -Werror -Wextra -pedantic -pedantic-errors -g   -Wl,--whole-archive CMakeFiles\SodokuSolver.dir/objects.a -Wl,--no-whole-archive  -o ..\SodokuSolver.exe -Wl,--out-implib,libSodokuSolver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SodokuSolver.dir\linklibs.rsp
